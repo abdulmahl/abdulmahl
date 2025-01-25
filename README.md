@@ -27,8 +27,8 @@ a student at Brigham Young University-Idaho and a passionate frontend web develo
 
 ## Let's Connect!
 
-- Here is my [LinkedIn]([https://www.linkedin.com/in/mduduzi-mahlangu/](https://www.linkedin.com/in/abdul-mahlangu/)) profile.
-- Follow me on [Twitter]([https://twitter.com/MduduziMahlangu](https://x.com/MduduziAbdul)).
+- Here is my [LinkedIn](https://www.linkedin.com/in/abdul-mahlangu/) profile.
+- Follow me on [Twitter](https://x.com/MduduziAbdul).
 
 Feel free to explore my repositories, and don’t hesitate to reach out. Let’s create something amazing together! 🚀
 
