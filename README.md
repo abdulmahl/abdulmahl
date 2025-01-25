@@ -1,16 +1,34 @@
-## Hi there 👋
+Hello, GitHub! 👋
+            
+# Mduduzi Abdul Mahlangu here.
 
-<!--
-**abdulmahl/abdulmahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mduduzi A. Mahlangu, a student at Brigham Young University-Idaho and a passionate frontend web developer with 8 months of internship experience. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 I'm currently learning advanced frontend frameworks and diving deeper into backend technologies to become a well-rounded full-stack developer.
+- 🌟 My goals are to:
+  - Contribute to impactful open-source projects.
+  - Build scalable, user-friendly web applications.
+  - Advance my skills in JavaScript, React, and backend development.
+- ❓ Ask me about web development, Tailwind CSS, or my journey in software development!
+
+## Technologies and Tools
+
+- **Proficient in:**
+  - HTML5, CSS3, JavaScript (ES6+)
+  - React, Next.js
+  - Tailwind CSS
+  - Git & GitHub
+- **Skills:**
+  - Responsive Web Design
+  - Cross-Browser Compatibility
+  - UI/UX Principles
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/mduduzi-mahlangu/) profile.
+- Follow me on [Twitter](https://twitter.com/MduduziMahlangu).
+
+Feel free to explore my repositories, and don’t hesitate to reach out. Let’s create something amazing together! 🚀
+
