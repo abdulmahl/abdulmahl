@@ -1,8 +1,8 @@
 Hello, GitHub! 👋
             
-# Mduduzi Abdul Mahlangu here.
+# Mduduzi Abdul Mahlangu here
 
-I'm Mduduzi A. Mahlangu, a student at Brigham Young University-Idaho and a passionate frontend web developer with 8 months of internship experience. Welcome to my GitHub profile!
+a student at Brigham Young University-Idaho and a passionate frontend web developer with 8 months of internship experience. Welcome to my GitHub profile!
 
 ## About Me
 
